@@ -1,14 +1,14 @@
 class ifelse{
-    public static void main(string args[])
+    public static void main(String[] args)
     {
         boolean rain=false;
         if(rain)
         {
-            system.out.println("take an umbrella");
+            System.out.println("take an umbrella");
         }
         else
         {
-            system.out.println("enjoy sun");
+            System.out.println("enjoy sun");
         }
     }
 
